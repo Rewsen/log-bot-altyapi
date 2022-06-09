@@ -1,8 +1,8 @@
 const aoijs = require("aoi.js")
 const bot = new aoijs.Bot({
 
-token:process.env.bottoken, 
-prefix: "." 
+token:process.env.bottoken,ODM0ODAzNzIxNDE3NTIzMjUy.G0G3L9.rq4OvL_ftuMIgsWABReiN_iOFFO1o7ZovDYdKU
+prefix: "k!" 
 })
 bot.onMessage() 
 bot.onBanAdd() 
